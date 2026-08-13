@@ -1,5 +1,7 @@
 # REKO3 — 三国志英杰传 bản tiếng Việt không dấu
 
+Repo GitHub: [thanhthien-it-vn/Reko](https://github.com/thanhthien-it-vn/Reko)
+
 Game gốc: Koei 1992, bản DOS Trung Quốc (REKO3).  
 Cài đặt tham chiếu: `D:\Game\Reko\Reko\reko3`
 

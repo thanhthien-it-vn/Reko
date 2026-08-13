@@ -2,7 +2,7 @@
 
 Du an: dich **三国志英杰传 (REKO3 / Sangokushi Eiketsuden)** sang **tieng Viet khong dau** (ASCII).
 
-Game goc: `D:\Game\Reko\Reko\reko3` (khong commit vao repo)
+Repo: https://github.com/thanhthien-it-vn/Reko
 
 ## Muc tieu
 

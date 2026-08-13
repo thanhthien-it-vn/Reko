@@ -1,0 +1,20 @@
+# Game binaries — khong commit
+*.EXE
+*.COM
+*.R3
+*.R3S
+*.16P
+*.dll
+*.zip
+
+# Patches chua test
+translations/patches/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+---
+description: Huong dan Cursor Cloud Agent dich REKO3
+alwaysApply: true
+---
+
+# REKO Cloud Agent
+
+Khi duoc yeu cau dich REKO3:
+1. Doc `AGENTS.md` va `docs/HUONG-DAN-VIET-TAT.md`
+2. Uu tien file JSON co nhieu `status: pending`
+3. Moi session dich toi da 100 entry, commit ro rang
+4. Khong commit file .R3/.EXE game goc

@@ -1,0 +1,21 @@
+---
+description: Quy tac dich REKO3 sang tieng Viet khong dau (JSON translations)
+globs: translations/**/*.json
+alwaysApply: false
+---
+
+# REKO3 Translation Rules
+
+- Doc `docs/HUONG-DAN-VIET-TAT.md` truoc khi dich.
+- Moi entry JSON: dien `translated` (day du) va `abbrev` (trong game).
+- `abbrev` chi dung ASCII a-z A-Z 0-9 space — KHONG dau tieng Viet.
+- Bat buoc: `len(abbrev) <= ascii_max`.
+- Giu nguyen `id`, `offset`, `raw_hex`, `file` — chi sua translated/abbrev/status.
+- `status`: "pending" | "sample" | "done"
+- Ten nhan vat/dia danh dong bo voi bang viet tat co dinh.
+
+Vi du:
+- original: 短剑, ascii_max: 6 -> abbrev: "K.Ngan"
+- original: 青龙偃月刀 -> abbrev: "T.Long" (Thanh Long dao)
+
+Commit message: `dich item.json: batch 1`

@@ -10,6 +10,7 @@ from pathlib import Path
 from translations.item_data import ITEM_TRANSLATIONS
 from translations.npc_data import NPC_TRANSLATIONS
 from translations.snr0m_data import SNR0M_TRANSLATIONS
+from translations.snr2m_data import SNR2M_TRANSLATIONS
 
 ASCII_RE = re.compile(r"^[a-zA-Z0-9 .,!?;:'\"()-]+$")
 
@@ -27,6 +28,7 @@ DATA_MAP = {
     "item.json": ITEM_TRANSLATIONS,
     "npc.json": NPC_TRANSLATIONS,
     "script_snr0m.json": SNR0M_TRANSLATIONS,
+    "script_snr2m.json": SNR2M_TRANSLATIONS,
 }
 
 

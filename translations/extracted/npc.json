@@ -7,9 +7,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "老人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ong gia",
+    "abbrev": "Ong gia",
+    "status": "done"
   },
   {
     "id": "NPC_000D",
@@ -19,9 +19,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "男子",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nam tu",
+    "abbrev": "Nam",
+    "status": "done"
   },
   {
     "id": "NPC_001A",
@@ -31,9 +31,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "農民",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nong dan",
+    "abbrev": "Nong dan",
+    "status": "done"
   },
   {
     "id": "NPC_0034",
@@ -43,9 +43,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "宮吏",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan vien",
+    "abbrev": "Quan",
+    "status": "done"
   },
   {
     "id": "NPC_0041",
@@ -55,9 +55,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "醫生",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bac si",
+    "abbrev": "Bac si",
+    "status": "done"
   },
   {
     "id": "NPC_004E",
@@ -67,9 +67,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "美女",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "My nu",
+    "abbrev": "My nu",
+    "status": "done"
   },
   {
     "id": "NPC_005B",
@@ -79,9 +79,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "老婦",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ba gia",
+    "abbrev": "Ba gia",
+    "status": "done"
   },
   {
     "id": "NPC_0082",
@@ -91,9 +91,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "僧侶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tang si",
+    "abbrev": "Tang",
+    "status": "done"
   },
   {
     "id": "NPC_00B6",
@@ -103,9 +103,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "旅客",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hanh khach",
+    "abbrev": "Khach",
+    "status": "done"
   },
   {
     "id": "NPC_00DD",
@@ -115,9 +115,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "女子",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nu tu",
+    "abbrev": "Nu",
+    "status": "done"
   },
   {
     "id": "NPC_0111",
@@ -127,9 +127,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "商人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuong nhan",
+    "abbrev": "Thuong",
+    "status": "done"
   },
   {
     "id": "NPC_01A0",
@@ -139,9 +139,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "工匠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tho ren",
+    "abbrev": "Tho",
+    "status": "done"
   },
   {
     "id": "NPC_01AD",
@@ -151,9 +151,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "佣人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi thue",
+    "abbrev": "Thue",
+    "status": "done"
   },
   {
     "id": "NPC_0367",
@@ -163,9 +163,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "盜賊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dao tac",
+    "abbrev": "Dao tac",
+    "status": "done"
   },
   {
     "id": "NPC_03C2",
@@ -175,9 +175,9 @@
     "raw_bytes": 6,
     "ascii_max": 8,
     "original": "流浪漢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke lang thang",
+    "abbrev": "Lang thg",
+    "status": "done"
   },
   {
     "id": "NPC_03CF",
@@ -187,9 +187,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "乞丐",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "An mai",
+    "abbrev": "An mai",
+    "status": "done"
   },
   {
     "id": "NPC_0437",
@@ -199,9 +199,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "娼妓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ky nu",
+    "abbrev": "Ky nu",
+    "status": "done"
   },
   {
     "id": "NPC_0478",
@@ -211,8 +211,8 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "山賊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Son tac",
+    "abbrev": "Son tac",
+    "status": "done"
   }
 ]

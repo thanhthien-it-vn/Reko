@@ -332,11 +332,12 @@ def write_data_py(out_path: Path, var_name: str, module_doc: str, data: dict[str
 
 
 def main() -> None:
-    targets = sys.argv[1:] if len(sys.argv) > 1 else ["snr3m", "snr4m"]
+    targets = sys.argv[1:] if len(sys.argv) > 1 else ["snr1m", "snr3m", "snr4m"]
     base = Path("translations/extracted")
     out_dir = Path("tools/translations")
 
     configs = {
+        "snr1m": ("script_snr1m.json", "SNR1M_TRANSLATIONS", "Vietnamese translations for script_snr1m.json"),
         "snr3m": ("script_snr3m.json", "SNR3M_TRANSLATIONS", "Vietnamese translations for script_snr3m.json"),
         "snr4m": ("script_snr4m.json", "SNR4M_TRANSLATIONS", "Vietnamese translations for script_snr4m.json"),
     }

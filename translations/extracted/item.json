@@ -10,7 +10,7 @@
     "original": "遁甲天書",
     "translated": "Dun Giap Thien Thu",
     "abbrev": "D.Giap",
-    "status": "sample"
+    "status": "done"
   },
   {
     "id": "ITEM_01",
@@ -23,7 +23,7 @@
     "original": "青囊書",
     "translated": "Thanh Nang Thu",
     "abbrev": "T.Nang",
-    "status": "sample"
+    "status": "done"
   },
   {
     "id": "ITEM_02",
@@ -34,9 +34,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "鼓吹具",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co co cu",
+    "abbrev": "C.Co",
+    "status": "done"
   },
   {
     "id": "ITEM_03",
@@ -47,9 +47,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "孫子兵法",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Tu Binh Phap",
+    "abbrev": "T.Tu",
+    "status": "done"
   },
   {
     "id": "ITEM_04",
@@ -60,9 +60,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "孟德新書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Manh Duc Tan Thu",
+    "abbrev": "M.Duc",
+    "status": "done"
   },
   {
     "id": "ITEM_05",
@@ -73,9 +73,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "黃爪飛龍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang Trao Phi Long",
+    "abbrev": "H.Trao",
+    "status": "done"
   },
   {
     "id": "ITEM_06",
@@ -88,7 +88,7 @@
     "original": "的盧",
     "translated": "Dich Lo",
     "abbrev": "D.Lo",
-    "status": "sample"
+    "status": "done"
   },
   {
     "id": "ITEM_07",
@@ -101,7 +101,7 @@
     "original": "赤兔馬",
     "translated": "Xich Tho Ma",
     "abbrev": "X.Tho",
-    "status": "sample"
+    "status": "done"
   },
   {
     "id": "ITEM_08",
@@ -112,9 +112,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "玉璽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngoc Ti",
+    "abbrev": "N.Ti",
+    "status": "done"
   },
   {
     "id": "ITEM_09",
@@ -125,9 +125,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "倚天劍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngoa Thien Kiem",
+    "abbrev": "N.Thien",
+    "status": "done"
   },
   {
     "id": "ITEM_10",
@@ -138,9 +138,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "青釭劍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thanh Cuong Kiem",
+    "abbrev": "T.Cuong",
+    "status": "done"
   },
   {
     "id": "ITEM_11",
@@ -151,9 +151,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "七星劍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "That Tinh Kiem",
+    "abbrev": "7.Tinh",
+    "status": "done"
   },
   {
     "id": "ITEM_12",
@@ -164,9 +164,9 @@
     "raw_bytes": 10,
     "ascii_max": 12,
     "original": "青龍偃月刀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dao Thanh Long",
+    "abbrev": "T.Long",
+    "status": "done"
   },
   {
     "id": "ITEM_13",
@@ -177,9 +177,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "三尖刀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tam Kiem Dao",
+    "abbrev": "3.Kiem",
+    "status": "done"
   },
   {
     "id": "ITEM_14",
@@ -190,9 +190,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "方天畫戟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phuong Thien Hoa Kich",
+    "abbrev": "P.Thien",
+    "status": "done"
   },
   {
     "id": "ITEM_15",
@@ -203,9 +203,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "蛇矛",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xa Mao",
+    "abbrev": "X.Mao",
+    "status": "done"
   },
   {
     "id": "ITEM_16",
@@ -216,9 +216,9 @@
     "raw_bytes": 10,
     "ascii_max": 12,
     "original": "弓術指南書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung thuat chi nam",
+    "abbrev": "Cung TN",
+    "status": "done"
   },
   {
     "id": "ITEM_17",
@@ -229,9 +229,9 @@
     "raw_bytes": 10,
     "ascii_max": 12,
     "original": "馬術指南書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ma thuat chi nam",
+    "abbrev": "Ma TN",
+    "status": "done"
   },
   {
     "id": "ITEM_18",
@@ -242,9 +242,9 @@
     "raw_bytes": 10,
     "ascii_max": 12,
     "original": "劍術指南書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kiem thuat chi nam",
+    "abbrev": "Kiem TN",
+    "status": "done"
   },
   {
     "id": "ITEM_19",
@@ -255,9 +255,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "長槍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong thuong",
+    "abbrev": "T.Thuong",
+    "status": "done"
   },
   {
     "id": "ITEM_20",
@@ -268,9 +268,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "步兵車",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bo binh xa",
+    "abbrev": "B.Binh",
+    "status": "done"
   },
   {
     "id": "ITEM_21",
@@ -281,9 +281,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "連弩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lien no",
+    "abbrev": "L.No",
+    "status": "done"
   },
   {
     "id": "ITEM_22",
@@ -294,9 +294,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "發石車",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phat thach xa",
+    "abbrev": "P.Thach",
+    "status": "done"
   },
   {
     "id": "ITEM_23",
@@ -307,9 +307,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "馬鎧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ma khai",
+    "abbrev": "M.Khai",
+    "status": "done"
   },
   {
     "id": "ITEM_24",
@@ -320,9 +320,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "近衛鎧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Can ve khai",
+    "abbrev": "C.Ve",
+    "status": "done"
   },
   {
     "id": "ITEM_25",
@@ -333,9 +333,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "無賴精神",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tinh than vo lai",
+    "abbrev": "VoLai",
+    "status": "done"
   },
   {
     "id": "ITEM_26",
@@ -346,9 +346,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "俠義精神",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tinh than hiep nghia",
+    "abbrev": "HiepNgh",
+    "status": "done"
   },
   {
     "id": "ITEM_27",
@@ -359,9 +359,9 @@
     "raw_bytes": 2,
     "ascii_max": 12,
     "original": "酒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ruou",
+    "abbrev": "Ruou",
+    "status": "done"
   },
   {
     "id": "ITEM_28",
@@ -372,9 +372,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "特級酒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ruou dac cap",
+    "abbrev": "R.Dac",
+    "status": "done"
   },
   {
     "id": "ITEM_29",
@@ -385,9 +385,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "老酒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ruou gia",
+    "abbrev": "R.Gia",
+    "status": "done"
   },
   {
     "id": "ITEM_30",
@@ -398,9 +398,9 @@
     "raw_bytes": 2,
     "ascii_max": 12,
     "original": "豆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dau",
+    "abbrev": "Dau",
+    "status": "done"
   },
   {
     "id": "ITEM_31",
@@ -411,9 +411,9 @@
     "raw_bytes": 2,
     "ascii_max": 12,
     "original": "麥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lua my",
+    "abbrev": "Lua",
+    "status": "done"
   },
   {
     "id": "ITEM_32",
@@ -424,9 +424,9 @@
     "raw_bytes": 2,
     "ascii_max": 12,
     "original": "米",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gao",
+    "abbrev": "Gao",
+    "status": "done"
   },
   {
     "id": "ITEM_33",
@@ -437,9 +437,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "炸彈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bom na",
+    "abbrev": "Bom",
+    "status": "done"
   },
   {
     "id": "ITEM_34",
@@ -450,9 +450,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "落石書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu lac thach",
+    "abbrev": "L.Thach",
+    "status": "done"
   },
   {
     "id": "ITEM_35",
@@ -463,9 +463,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "山崩書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu son bang",
+    "abbrev": "S.Bang",
+    "status": "done"
   },
   {
     "id": "ITEM_36",
@@ -476,9 +476,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "山洪書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu son hung",
+    "abbrev": "S.Hung",
+    "status": "done"
   },
   {
     "id": "ITEM_37",
@@ -489,9 +489,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "漩渦書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu tuyen vo",
+    "abbrev": "T.Vo",
+    "status": "done"
   },
   {
     "id": "ITEM_38",
@@ -502,9 +502,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "濁流書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu troc luu",
+    "abbrev": "T.Luu",
+    "status": "done"
   },
   {
     "id": "ITEM_39",
@@ -515,9 +515,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "海嘯書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu hai thieu",
+    "abbrev": "H.Thieu",
+    "status": "done"
   },
   {
     "id": "ITEM_40",
@@ -528,9 +528,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "焦熱書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu tieu nhiet",
+    "abbrev": "T.Nhiet",
+    "status": "done"
   },
   {
     "id": "ITEM_41",
@@ -541,9 +541,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "火龍書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu hoa long",
+    "abbrev": "H.Long",
+    "status": "done"
   },
   {
     "id": "ITEM_42",
@@ -554,9 +554,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "猛火書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu manh hoa",
+    "abbrev": "M.Hoa",
+    "status": "done"
   },
   {
     "id": "ITEM_43",
@@ -567,9 +567,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "濃霧書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu nong vu",
+    "abbrev": "N.Vu",
+    "status": "done"
   },
   {
     "id": "ITEM_44",
@@ -580,9 +580,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "雷陣雨書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu loi tran vu",
+    "abbrev": "L.Tran",
+    "status": "done"
   },
   {
     "id": "ITEM_45",
@@ -593,9 +593,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "豪雨書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu hao vu",
+    "abbrev": "H.Vu",
+    "status": "done"
   },
   {
     "id": "ITEM_46",
@@ -606,9 +606,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "援隊書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu vien doi",
+    "abbrev": "V.Doi",
+    "status": "done"
   },
   {
     "id": "ITEM_47",
@@ -619,9 +619,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "援部書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu vien bo",
+    "abbrev": "V.Bo",
+    "status": "done"
   },
   {
     "id": "ITEM_48",
@@ -632,9 +632,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "援軍書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu vien quan",
+    "abbrev": "V.Quan",
+    "status": "done"
   },
   {
     "id": "ITEM_49",
@@ -645,9 +645,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "平氣書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu binh khi",
+    "abbrev": "B.Khi",
+    "status": "done"
   },
   {
     "id": "ITEM_50",
@@ -658,9 +658,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "活氣書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu hoat khi",
+    "abbrev": "H.Khi",
+    "status": "done"
   },
   {
     "id": "ITEM_51",
@@ -671,9 +671,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "勇氣書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu dung khi",
+    "abbrev": "D.Khi",
+    "status": "done"
   },
   {
     "id": "ITEM_52",
@@ -684,9 +684,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "傷藥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuoc thuong",
+    "abbrev": "T.Thuong",
+    "status": "done"
   },
   {
     "id": "ITEM_53",
@@ -697,9 +697,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "中藥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuoc trung",
+    "abbrev": "T.Trung",
+    "status": "done"
   },
   {
     "id": "ITEM_54",
@@ -710,9 +710,9 @@
     "raw_bytes": 2,
     "ascii_max": 12,
     "original": "茶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tra",
+    "abbrev": "Tra",
+    "status": "done"
   },
   {
     "id": "ITEM_55",
@@ -723,9 +723,9 @@
     "raw_bytes": 6,
     "ascii_max": 12,
     "original": "赦命書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu xa menh",
+    "abbrev": "X.Menh",
+    "status": "done"
   },
   {
     "id": "ITEM_56",
@@ -736,9 +736,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "援軍報告",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bao cao vien quan",
+    "abbrev": "V.Bao",
+    "status": "done"
   },
   {
     "id": "ITEM_57",
@@ -749,9 +749,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "雌雄雙劍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Song kiem tu xung",
+    "abbrev": "T.Xung",
+    "status": "done"
   },
   {
     "id": "ITEM_58",
@@ -762,9 +762,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "英雄之劍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kiem anh hung",
+    "abbrev": "A.Hung",
+    "status": "done"
   },
   {
     "id": "ITEM_59",
@@ -775,9 +775,9 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "霸王之劍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kiem ba vuong",
+    "abbrev": "B.Vuong",
+    "status": "done"
   },
   {
     "id": "ITEM_60",
@@ -788,9 +788,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "六韜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc Dao",
+    "abbrev": "L.Dao",
+    "status": "done"
   },
   {
     "id": "ITEM_61",
@@ -801,9 +801,9 @@
     "raw_bytes": 4,
     "ascii_max": 12,
     "original": "三略",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tam Luoc",
+    "abbrev": "T.Luoc",
+    "status": "done"
   },
   {
     "id": "ITEM_62",
@@ -814,8 +814,8 @@
     "raw_bytes": 8,
     "ascii_max": 12,
     "original": "吳子兵法",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngo Tu Binh Phap",
+    "abbrev": "N.Tu",
+    "status": "done"
   }
 ]

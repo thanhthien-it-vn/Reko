@@ -8,9 +8,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "序章　群雄起兵討伐董卓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chuong 0: Quan hung khoi binh dao Dong Trac",
+    "abbrev": "Chuong 0 Q.hung k.binh",
+    "status": "done"
   },
   {
     "id": "SNR0M_000030",
@@ -21,9 +21,9 @@
     "raw_bytes": 100,
     "ascii_max": 101,
     "original": "時值東漢末年．\r\n　東漢末年，反叛和暴亂接連不斷，漢室衰微已顯而易見．\r\n　造成社會動亂的人是董卓．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc nay la cuoi doi Dong Han.\r\n Cuoi doi Dong Han, phan loan va bao loan lien tiep, nha Han suy yeu da ro rang.\r\n Nguoi gay dong loan xa hoi la Dong Trac.",
+    "abbrev": "Luc nay la cuoi doi Dong Han. Loan lac lien tiep, nha Han suy yeu. Nguoi gay loan la Dong Trac.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000095",
@@ -34,9 +34,9 @@
     "raw_bytes": 114,
     "ascii_max": 115,
     "original": "董卓控制朝廷，漠視皇帝，為所欲為，原來反對董卓的人，也因懼怕他手中的兵權而對他阿諛奉承．皇帝的權威已不復存在．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Trac kiem soat trieu dinh, xem thuong hoang de, lam tuy y. Nhung ke phan doi Dong Trac cung so quyen luc quan su ma ton sung hanh. Uy quyen cua hoang de khong con.",
+    "abbrev": "Dong Trac kiem soat trieu dinh, xem thuong hoang de. Ke phan doi so quyen quan ma ton sung. Uy quyen hoang de khong",
+    "status": "done"
   },
   {
     "id": "SNR0M_000108",
@@ -47,9 +47,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "在汜水關與董卓的華雄軍交戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giao chien voi quan Hoa Hung cua Dong Trac tai Ty Thuy Quan",
+    "abbrev": "Giao chien Hoa Hung Ty Thuy",
+    "status": "done"
   },
   {
     "id": "SNR0M_000125",
@@ -60,9 +60,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "陳留宮殿",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung dien Tran Luu",
+    "abbrev": "Tran Luu",
+    "status": "done"
   },
   {
     "id": "SNR0M_000130",
@@ -73,9 +73,9 @@
     "raw_bytes": 36,
     "ascii_max": 37,
     "original": "陛下，不要擔心，把所有朝政都交給臣．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bien ha, dung lo, hay giao moi viec trieu chinh cho than.",
+    "abbrev": "Bien ha, dung lo, giao trieu chinh.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00015E",
@@ -86,9 +86,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "那麼，臣告辭了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vay than xin cao lui.",
+    "abbrev": "Than xin cao lui.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000173",
@@ -99,9 +99,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "哼！皇帝現在只是個裝飾品，我才是一國之主，哈哈！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Humph! Hoang de gio chi la do trang tri, ta moi la chu nhan dat nuoc, ha ha!",
+    "abbrev": "Humph! Hoang de chi la do trang tri, ta moi la",
+    "status": "done"
   },
   {
     "id": "SNR0M_0001A8",
@@ -112,9 +112,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "陛下，為了您著想，請不要頂撞董卓．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bien ha, vi ngai, xin dung chong doi Dong Trac.",
+    "abbrev": "Bien ha, dung chong doi Dong Trac.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000268",
@@ -125,9 +125,9 @@
     "raw_bytes": 198,
     "ascii_max": 199,
     "original": "宣誓忠於漢室的諸侯們對董卓的為所欲為深為不滿．\r\n　因年輕有為而知名的曹操也不例外．\r\n　曹操策劃謀殺董卓，但失敗了．他又向各地傳發討伐董卓的檄文，得到了熱烈的響應，不久，諸侯率兵從各地向陳留集結．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cac hau tuong trung thanh nha Han rat bat man voi hanh dong tuy y cua Dong Trac.\r\n Tao Thao noi tieng tre tai cung khong ngoai le.\r\n Tao Thao muu sat Dong Trac nhung that bai. Ong lai truyen van khao Dong Trac khap noi, duoc hoi am nhiet liet. Khong lau, cac hau tuong dan quan tu khap noi tap trung tai Tran Luu.",
+    "abbrev": "Cac hau tuong bat man Dong Trac. Tao Thao muu sat that bai, truyen van khao, cac hau tap trung tai Tran Luu.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000331",
@@ -138,9 +138,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "袁紹，袁術，謝謝二位將軍響應檄文．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Shao, Vien Thu, cam on hai vi tuong phan ung van khao.",
+    "abbrev": "Vien Shao, Vien Thu, cam on hai vi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000356",
@@ -151,9 +151,9 @@
     "raw_bytes": 60,
     "ascii_max": 61,
     "original": "我早看不慣董卓的專橫，這次一定要討伐反賊董卓，重振漢室聲威．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta lau khong chiu noi su chuyen quyen cua Dong Trac, lan nay nhat dinh dao phan tac Dong Trac, trung hung uy dan nha Han.",
+    "abbrev": "Ta nhat dinh dao phan tac Dong Trac, trung hung uy dan nha",
+    "status": "done"
   },
   {
     "id": "SNR0M_000395",
@@ -164,9 +164,9 @@
     "raw_bytes": 88,
     "ascii_max": 89,
     "original": "對，既然我們袁氏一家來了，就不會讓董卓好受，豈能容忍那老傢伙的專橫，讓他看看我們的厲害．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung, gia toc Vien da den, se khong de Dong Trac yen, sao chiu noi su chuyen quyen cua lao gia do, de ong thay suc manh cua chung ta.",
+    "abbrev": "Dung, gia toc Vien da den, se khong de Dong Trac yen, de ong thay suc manh cua ta.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0003F2",
@@ -177,9 +177,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "噢，陶謙，孔融，歡迎你們．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "O, Tao Thien, Khong Dung, hoan nghenh cac ngai.",
+    "abbrev": "O, Tao Thien, Khong Dung.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00040F",
@@ -190,9 +190,9 @@
     "raw_bytes": 58,
     "ascii_max": 59,
     "original": "身為漢臣，豈能容忍董卓，我從徐州急速趕來，請讓我加入聯軍．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La than cua nha Han, sao chiu noi Dong Trac, ta tu Xu Chau gap rut den, xin cho ta gia nhap lien quan.",
+    "abbrev": "La than nha Han, ta tu Xu Chau den, xin cho gia nhap lien",
+    "status": "done"
   },
   {
     "id": "SNR0M_00044C",
@@ -203,9 +203,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "我從北海率軍趕來，也加入聯軍．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta tu Bac Hai dan quan den, cung gia nhap lien quan.",
+    "abbrev": "Ta tu Bac Hai dan quan den.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00046F",
@@ -216,9 +216,9 @@
     "raw_bytes": 32,
     "ascii_max": 33,
     "original": "公孫瓚也來了，遠道而來，辛苦了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cong Ton Tan cung den, duong xa moi den, kho roi.",
+    "abbrev": "Cong Ton Tan den, duong xa kho",
+    "status": "done"
   },
   {
     "id": "SNR0M_000492",
@@ -229,9 +229,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "哪裡哪裡，我要給你介紹一個人．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dau co, ta muon gioi thieu mot nguoi.",
+    "abbrev": "Ta muon gioi thieu mot nguoi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0004B3",
@@ -242,9 +242,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "噢，是誰呀？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "O, la ai vay?",
+    "abbrev": "O, la ai vay?",
+    "status": "done"
   },
   {
     "id": "SNR0M_0004C2",
@@ -255,9 +255,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "是劉備，請進來．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La Luu Bi, xin moi vao.",
+    "abbrev": "Luu Bi, xin moi",
+    "status": "done"
   },
   {
     "id": "SNR0M_0004D7",
@@ -268,9 +268,9 @@
     "raw_bytes": 58,
     "ascii_max": 59,
     "original": "我是劉備，字玄德，聽說要討伐董卓，便和公孫瓚一起趕到這裡．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta la Luu Bi, tu Huyen Duc, nghe noi dao Dong Trac, lien cung Cong Ton Tan den day.",
+    "abbrev": "Ta la Luu Bi, nghe noi dao Dong Trac, cung Cong Ton Tan",
+    "status": "done"
   },
   {
     "id": "SNR0M_0005B3",
@@ -281,9 +281,9 @@
     "raw_bytes": 136,
     "ascii_max": 137,
     "original": "發生黃巾之亂時，劉備欲拯救亂世，率義勇軍討伐黃巾賊．\r\n　劉備有兩個兄弟，一個是關羽字雲長，一個是張飛字翼德，兩人都是出類拔萃的豪傑．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi Hoang Can khoi loan, Luu Bi muon cuu the gian loan, dan nghia quan dao Hoang Can tac.\r\n Luu Bi co hai huynh de, mot la Quan Vu tu Van Truong, mot la Truong Phi tu Nghich Duc, ca hai deu la hao kiet xuat chung.",
+    "abbrev": "Khi Hoang Can loan, Luu Bi dan nghia quan dao tac. Hai huynh de Quan Vu va Truong Phi deu la hao kiet.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00063C",
@@ -294,9 +294,9 @@
     "raw_bytes": 128,
     "ascii_max": 129,
     "original": "劉備，關羽，張飛，此三人雖是偶然相遇，但相互被對方的志向所感動，結拜為兄弟，雖然彼此不是親兄弟．但關羽，張飛都稱劉備為大哥．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi, Quan Vu, Truong Phi, ba nguoi du ngau nhien gap nhau nhung cung cam dong boi chi huong cua nhau, ket bai lam huynh de. Mac du khong phai anh em ruot, Quan Vu va Truong Phi deu goi Luu Bi la dai ca.",
+    "abbrev": "Luu Bi, Quan Vu, Truong Phi gap nhau, ket bai lam huynh de. Quan Vu va Truong Phi goi Luu Bi la dai ca.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0006BF",
@@ -307,9 +307,9 @@
     "raw_bytes": 28,
     "ascii_max": 31,
     "original": "噢，是劉備嗎？我們以前見過．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "O, la Luu Bi sao? Chung ta gap nhau roi.",
+    "abbrev": "Luu Bi sao? Gap nhau roi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0006DE",
@@ -320,9 +320,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "那是討黃巾賊時．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc dao Hoang Can tac.",
+    "abbrev": "Luc dao Hoang",
+    "status": "done"
   },
   {
     "id": "SNR0M_0006F3",
@@ -333,9 +333,9 @@
     "raw_bytes": 58,
     "ascii_max": 61,
     "original": "那時我被你的勇敢作戰所震驚，有你在，就更有把握了，拜託了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc do ta kinh ngac truoc su dung cam cua ngai, co ngai thi chac chan hon, nho ngai.",
+    "abbrev": "Co ngai thi chac chan hon, nho ngai.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000730",
@@ -346,9 +346,9 @@
     "raw_bytes": 10,
     "ascii_max": 11,
     "original": "請多關照．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xin nhieu an chi.",
+    "abbrev": "Nhieu an",
+    "status": "done"
   },
   {
     "id": "SNR0M_00073D",
@@ -359,9 +359,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "（劉備？我沒聽說過此人．）",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "(Luu Bi? Ta chua nghe ten nguoi nay.)",
+    "abbrev": "(Luu Bi? Chua nghe ten.)",
+    "status": "done"
   },
   {
     "id": "SNR0M_000795",
@@ -372,9 +372,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "洛陽宮殿",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung dien Lac Duong",
+    "abbrev": "Lac Duong",
+    "status": "done"
   },
   {
     "id": "SNR0M_00079E",
@@ -385,9 +385,9 @@
     "raw_bytes": 70,
     "ascii_max": 71,
     "original": "董卓對曹操等的行動馬上採取了對策，命令部下華雄和義子呂布準備迎戰．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Trac lap tuc doi pho hanh dong cua Tao Thao va nhung nguoi khac, ra lenh cho bo ha Hua Xiong va nghia tu Lu Bo chuan bi don danh.",
+    "abbrev": "Dong Trac ra lenh Hua Xiong va Lu Bo chuan bi don danh.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0007E7",
@@ -398,9 +398,9 @@
     "raw_bytes": 32,
     "ascii_max": 33,
     "original": "華雄，把守汜水關的任務交給你了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hua Xiong, giao nhiem vu giu Ty Thuy Quan cho ngai.",
+    "abbrev": "Hua Xiong, giu Ty Thuy Quan.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00080A",
@@ -411,9 +411,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "是．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vang.",
+    "abbrev": "Vang.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000813",
@@ -424,9 +424,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "父親，為何只命令華雄出征，難道忘了呂布？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phu than, sao chi ra lenh Hua Xiong xuat chinh, quen Lu Bo sao?",
+    "abbrev": "Sao chi ra lenh Hua Xiong, quen Lu Bo?",
+    "status": "done"
   },
   {
     "id": "SNR0M_000840",
@@ -437,9 +437,9 @@
     "raw_bytes": 46,
     "ascii_max": 47,
     "original": "哪裡？呂布，我最信任的人就是你，你去守虎牢關．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dau co? Lu Bo, nguoi ta tin nhat chinh la ngai, ngai di giu Ho Lao Quan.",
+    "abbrev": "Lu Bo, nguoi ta tin nhat la ngai, di giu Ho Lao",
+    "status": "done"
   },
   {
     "id": "SNR0M_000871",
@@ -450,9 +450,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "是，謝謝父親，我去了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vang, cam on phu than, con di day.",
+    "abbrev": "Vang, cam on phu than.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00088C",
@@ -463,9 +463,9 @@
     "raw_bytes": 38,
     "ascii_max": 39,
     "original": "哼！誰說我就比不過呂布？最厲害的是我！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Humph! Ai noi ta khong bang Lu Bo? Manh nhat la ta!",
+    "abbrev": "Ai noi ta khong bang Lu Bo? Manh nhat",
+    "status": "done"
   },
   {
     "id": "SNR0M_0008B7",
@@ -476,9 +476,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "他們能打敗華雄來到這裡嗎？打不過來吧．哈哈哈！！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ho co danh bai Hua Xiong den day khong? Khong qua duoc dau. Ha ha ha!!",
+    "abbrev": "Ho co danh bai Hua Xiong den day khong? Khong qua",
+    "status": "done"
   },
   {
     "id": "SNR0M_0008F3",
@@ -489,9 +489,9 @@
     "raw_bytes": 78,
     "ascii_max": 79,
     "original": "討伐董卓的聯軍先鋒被華雄率領的董卓軍打敗了．\r\n　討伐董卓的聯軍陷入了困境．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tien phong lien quan dao Dong Trac bi quan Dong Trac do Hua Xiong chi huy danh bai.\r\n Lien quan dao Dong Trac roi vao tinh the kho khan.",
+    "abbrev": "Tien phong lien quan bi Hua Xiong danh bai. Lien quan roi vao tinh the kho khan",
+    "status": "done"
   },
   {
     "id": "SNR0M_000942",
@@ -502,9 +502,9 @@
     "raw_bytes": 38,
     "ascii_max": 39,
     "original": "p\u0001稟告主帥，華雄率領的董卓軍攻過來了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "p\u0001Bao cao chu soai, quan Dong Trac do Hua Xiong chi huy dang tien len.",
+    "abbrev": "p\u0001Bao cao chu soai, quan Hua Xiong tien",
+    "status": "done"
   },
   {
     "id": "SNR0M_00096B",
@@ -515,9 +515,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "知道了，我馬上派援軍．退下．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Biet roi, ta se cu vien quan ngay. Lui.",
+    "abbrev": "Biet roi, cu vien quan. Lui.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000988",
@@ -528,9 +528,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "p\u0001是．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "p\u0001Vang.",
+    "abbrev": "p\u0001Vang.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000993",
@@ -541,9 +541,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "話是這麼說，可是派誰去好呢？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Noi vay nhung cu ai di tot?",
+    "abbrev": "Noi vay nhung cu ai di tot?",
+    "status": "done"
   },
   {
     "id": "SNR0M_0009B2",
@@ -554,9 +554,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "諸侯中有誰敢去迎戰華雄？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trong cac hau tuong ai dam don Hua Xiong?",
+    "abbrev": "Ai dam don Hua Xiong?",
+    "status": "done"
   },
   {
     "id": "SNR0M_0009CD",
@@ -567,9 +567,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "慚愧，我軍力量難以迎戰華雄．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xau ho, luc luong ta kho ma don Hua Xiong.",
+    "abbrev": "Luc luong ta kho don Hua",
+    "status": "done"
   },
   {
     "id": "SNR0M_0009EC",
@@ -580,9 +580,9 @@
     "raw_bytes": 36,
     "ascii_max": 37,
     "original": "本來我可引兵前往，怎奈現在身體欠佳．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ban la ta co the dan quan di, nhung gio suc khoe khong tot.",
+    "abbrev": "Ta co the dan quan di, nhung suc khoe",
+    "status": "done"
   },
   {
     "id": "SNR0M_000A13",
@@ -593,9 +593,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "難道沒有人了？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chang le khong ai sao?",
+    "abbrev": "Khong ai sao?",
+    "status": "done"
   },
   {
     "id": "SNR0M_000A26",
@@ -606,9 +606,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "我們兄弟願往．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ba anh em ta xin di.",
+    "abbrev": "Ba anh em xin",
+    "status": "done"
   },
   {
     "id": "SNR0M_000A37",
@@ -619,9 +619,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "劉備，你身後的人是誰？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi, nguoi sau lung ngai la ai?",
+    "abbrev": "Luu Bi, nguoi sau lung",
+    "status": "done"
   },
   {
     "id": "SNR0M_000A52",
@@ -632,9 +632,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "他們是劉備的結義兄弟，關羽和張飛．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ho la huynh de ket nghia cua Luu Bi, Quan Vu va Truong Phi.",
+    "abbrev": "Huynh de ket nghia Luu Bi, Quan Vu,",
+    "status": "done"
   },
   {
     "id": "SNR0M_000A77",
@@ -645,9 +645,9 @@
     "raw_bytes": 78,
     "ascii_max": 79,
     "original": "哦？劉備的官職是…劉備這個名字，我沒聽說過．當大將的話，還是要有適當身份才行．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "O? Chuc vu cua Luu Bi la... Ten Luu Bi ta chua nghe. Lam tuong can co than phan thich hop.",
+    "abbrev": "Ten Luu Bi ta chua nghe. Lam tuong can co than phan thich hop.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000AC8",
@@ -658,9 +658,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "現在還只是平原縣令．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gio chi la lenh huyen Binh Nguyen.",
+    "abbrev": "Chi la lenh huyen",
+    "status": "done"
   },
   {
     "id": "SNR0M_000AE1",
@@ -671,9 +671,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "什麼？只是個小官吏，怎能當此大任？退下．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gi? Chi la quan nho, sao dam nhan trong trach? Lui.",
+    "abbrev": "Chi la quan nho, sao dam nhan trong",
+    "status": "done"
   },
   {
     "id": "SNR0M_000B0E",
@@ -684,9 +684,9 @@
     "raw_bytes": 50,
     "ascii_max": 51,
     "original": "袁術，稍等，雖是小吏，但敢如此說，或許有一定把握．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Thu, cho mot chut, du la quan nho nhung dam noi vay, co le co phan chac chan.",
+    "abbrev": "Vien Thu, cho mot chut, du la quan nho nhung dam",
+    "status": "done"
   },
   {
     "id": "SNR0M_000B43",
@@ -697,9 +697,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "哼，隨你便．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Humph, tuy ngai.",
+    "abbrev": "Tuy ngai.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000B54",
@@ -710,9 +710,9 @@
     "raw_bytes": 68,
     "ascii_max": 69,
     "original": "好，就讓你們去，快去準備，你們可以充份調用軍需．喂，叫道具屋老闆來．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tot, de cac ngai di, chuan bi nhanh, cac ngai co the dieu dong quan nhu. Nay, goi chu cua hang do cu.",
+    "abbrev": "Tot, de cac ngai di, chuan bi nhanh, goi chu cua hang do cu.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000B9D",
@@ -723,9 +723,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "劉備，他是道具屋老闆，可提供軍需．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi, day la chu cua hang do cu, co the cung cap quan nhu.",
+    "abbrev": "Day la chu cua hang do cu, cung cap",
+    "status": "done"
   },
   {
     "id": "SNR0M_000BC2",
@@ -736,9 +736,9 @@
     "raw_bytes": 50,
     "ascii_max": 51,
     "original": "還有，出征前最好和別人打聲招呼，也可能得到點消息．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon nua, truoc khi xuat chinh nen noi chuyen voi nguoi khac, co the nhan duoc tin tuc.",
+    "abbrev": "Truoc khi xuat chinh nen noi chuyen, co the nhan",
+    "status": "done"
   },
   {
     "id": "SNR0M_000BF9",
@@ -749,9 +749,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "華雄乃勇猛之人，要小心．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hua Xiong la nguoi dung cam, hay can than.",
+    "abbrev": "Hua Xiong dung cam, can",
+    "status": "done"
   },
   {
     "id": "SNR0M_000C16",
@@ -762,9 +762,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "希望你們勇猛作戰．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mong cac ngai dung cam chien dau.",
+    "abbrev": "Mong dung cam chien",
+    "status": "done"
   },
   {
     "id": "SNR0M_000C2D",
@@ -775,9 +775,9 @@
     "raw_bytes": 46,
     "ascii_max": 47,
     "original": "哼，小兵如何拼命也註定要失敗，想不去還來得及．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Humph, tieu binh co co the cung that bai, muon khong di con kip.",
+    "abbrev": "Tieu binh co co the cung that bai, muon khong",
+    "status": "done"
   },
   {
     "id": "SNR0M_000C60",
@@ -788,9 +788,9 @@
     "raw_bytes": 82,
     "ascii_max": 83,
     "original": "你們是步兵，華雄是騎兵，彼此的兵種不同，所以交戰時要注意這個區別，否則你們要吃虧．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cac ngai la bo binh, Hua Xiong la ky binh, binh chung khac nhau, khi giao chien hay chu y, khong se bi thiet.",
+    "abbrev": "Cac ngai la bo binh, Hua Xiong la ky binh, khi giao chien hay chu y.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000CB7",
@@ -801,9 +801,9 @@
     "raw_bytes": 32,
     "ascii_max": 33,
     "original": "我也參加這次作戰，也許能幫上忙．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta cung tham gia tran nay, co le giup duoc.",
+    "abbrev": "Ta cung tham gia, co le giup",
+    "status": "done"
   },
   {
     "id": "SNR0M_000CDC",
@@ -814,9 +814,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "我的部隊也參加，一起討伐敵軍．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bo doi ta cung tham gia, cung dao dich quan.",
+    "abbrev": "Bo doi ta cung tham gia.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000CFF",
@@ -827,9 +827,9 @@
     "raw_bytes": 42,
     "ascii_max": 43,
     "original": "大哥，快出征吧，準備好的話，跟關羽說一聲．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dai ca, mau xuat chinh, neu san sang thi noi voi Quan Vu.",
+    "abbrev": "Dai ca, mau xuat chinh, noi voi Quan Vu.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000D2E",
@@ -840,9 +840,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "準備好了嗎？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "San sang chua?",
+    "abbrev": "San sang?",
+    "status": "done"
   },
   {
     "id": "SNR0M_000D3F",
@@ -853,9 +853,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "出征！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xuat chinh!",
+    "abbrev": "Xuat",
+    "status": "done"
   },
   {
     "id": "SNR0M_000D4A",
@@ -866,9 +866,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "敵人在汜水關，火速進軍．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dich o Ty Thuy Quan, mau tien quan.",
+    "abbrev": "Dich o Ty Thuy Quan, mau",
+    "status": "done"
   },
   {
     "id": "SNR0M_000D78",
@@ -879,9 +879,9 @@
     "raw_bytes": 50,
     "ascii_max": 51,
     "original": "吃一次虧也不長一智，聯軍還來自找麻煩，是誰的部隊？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "An mot lan thua cung khong khon hon, lien quan con den tu tim chuyen, doi nao vay?",
+    "abbrev": "Lien quan den tu tim chuyen, doi nao vay?",
+    "status": "done"
   },
   {
     "id": "SNR0M_000DAD",
@@ -892,9 +892,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "主將好像是個叫劉備的人．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu tuong co ve la nguoi ten Luu Bi.",
+    "abbrev": "Chu tuong ten Luu Bi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000DC8",
@@ -905,9 +905,9 @@
     "raw_bytes": 58,
     "ascii_max": 59,
     "original": "劉備？這個名字沒聽說過，為何叫這種無名鼠輩來．看不起我嗎？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi? Chua nghe ten nay, sao cu ke vo danh den. Khinh ta sao?",
+    "abbrev": "Luu Bi? Chua nghe ten, sao cu ke vo danh den.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000E05",
@@ -918,9 +918,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "大概是聯軍沒人了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co le lien quan het nguoi roi.",
+    "abbrev": "Lien quan het nguoi",
+    "status": "done"
   },
   {
     "id": "SNR0M_000E1A",
@@ -931,9 +931,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "管他是誰，殺了他祭旗，眾將士，出征迎敵．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke la ai, giet lam te co, chung tuong si, xuat chinh don dich.",
+    "abbrev": "Giet lam te co, chung tuong si, xuat",
+    "status": "done"
   },
   {
     "id": "SNR0M_000E45",
@@ -944,9 +944,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "大哥，我先活動一下身體吧．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dai ca, de ta van dong mot chut.",
+    "abbrev": "De ta van dong mot chut.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000E62",
@@ -957,9 +957,9 @@
     "raw_bytes": 44,
     "ascii_max": 45,
     "original": "大哥，這個交給我吧，我一定取華雄首級來見你．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dai ca, giao viec nay cho ta, ta nhat dinh lay dau Hua Xiong ve gap ngai.",
+    "abbrev": "Ta nhat dinh lay dau Hua Xiong ve gap ngai.",
+    "status": "done"
   },
   {
     "id": "SNR0M_000EA6",
@@ -970,9 +970,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "對面的可是華雄，我要與你單挑！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ben kia la Hua Xiong, ta muon don dau voi ngai!",
+    "abbrev": "Ta muon don dau voi Hua Xiong!",
+    "status": "done"
   },
   {
     "id": "SNR0M_000EC7",
@@ -983,9 +983,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "向我挑戰？好大的膽，通名受死．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thach thuc ta? That to gan, bao ten len chet.",
+    "abbrev": "Thach thuc ta? Bao ten len",
+    "status": "done"
   },
   {
     "id": "SNR0M_000EE8",
@@ -996,9 +996,9 @@
     "raw_bytes": 58,
     "ascii_max": 59,
     "original": "我乃關羽關雲長，華雄，我關羽決不容你們這些董卓軍胡作非為．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta la Quan Vu Quan Van Truong, Hua Xiong, ta Quan Vu khong dung cho quan Dong Trac lam ac.",
+    "abbrev": "Ta la Quan Vu Quan Van Truong, Hua Xiong, ta khong dung cho",
+    "status": "done"
   },
   {
     "id": "SNR0M_000F25",
@@ -1009,9 +1009,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "哼，還逞威風，不過一看就是無名小卒．還能勝我嗎？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Humph, con lam oai phong, nhin la biet tieu binh vo danh. Thang duoc ta sao?",
+    "abbrev": "Nhin la biet tieu binh vo danh. Thang duoc ta",
+    "status": "done"
   },
   {
     "id": "SNR0M_000F58",
@@ -1022,9 +1022,9 @@
     "raw_bytes": 32,
     "ascii_max": 33,
     "original": "敢把我看成無名小卒，送你上西天．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dam coi ta la tieu binh vo danh, dua ngai len tay troi.",
+    "abbrev": "Dam coi ta la vo danh, dua ngai",
+    "status": "done"
   },
   {
     "id": "SNR0M_000F7D",
@@ -1035,9 +1035,9 @@
     "raw_bytes": 10,
     "ascii_max": 11,
     "original": "接我一刀！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhan dao ta!",
+    "abbrev": "Nhan dao",
+    "status": "done"
   },
   {
     "id": "SNR0M_000F8C",
@@ -1048,9 +1048,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "好厲害！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "That manh!",
+    "abbrev": "That",
+    "status": "done"
   },
   {
     "id": "SNR0M_000F97",
@@ -1061,9 +1061,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "華雄！要你的命！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hua Xiong! Lay mang ngai!",
+    "abbrev": "Hua Xiong! Lay",
+    "status": "done"
   },
   {
     "id": "SNR0M_000FAC",
@@ -1074,9 +1074,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "呀！失手了！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "A! That tay roi!",
+    "abbrev": "That tay roi!",
+    "status": "done"
   },
   {
     "id": "SNR0M_000FBD",
@@ -1087,9 +1087,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "先割下華雄首級．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truoc tien cat dau Hua Xiong.",
+    "abbrev": "Cat dau Hua",
+    "status": "done"
   },
   {
     "id": "SNR0M_000FE5",
@@ -1100,9 +1100,9 @@
     "raw_bytes": 24,
     "ascii_max": 27,
     "original": "大哥，關羽好像斬了華雄．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dai ca, Quan Vu co ve da chem Hua Xiong.",
+    "abbrev": "Quan Vu da chem Hua Xiong.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001000",
@@ -1113,9 +1113,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "嗯，我軍勝利了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "U, ta thang roi.",
+    "abbrev": "U, ta thang roi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001038",
@@ -1126,9 +1126,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "我軍勝利了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta thang roi.",
+    "abbrev": "Ta thang roi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00106A",
@@ -1139,9 +1139,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "繳獲了黃金１００！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu duoc vang 100!",
+    "abbrev": "Thu duoc vang 100!",
+    "status": "done"
   },
   {
     "id": "SNR0M_00107F",
@@ -1152,9 +1152,9 @@
     "raw_bytes": 44,
     "ascii_max": 47,
     "original": "敵人好像逃到了前面的虎牢關．大哥，該怎麼辦？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dich co ve da chay den Ho Lao Quan phia truoc. Dai ca, lam sao day?",
+    "abbrev": "Dich chay den Ho Lao Quan. Dai ca, lam sao?",
+    "status": "done"
   },
   {
     "id": "SNR0M_0010AE",
@@ -1165,9 +1165,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "暫且收兵吧．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tam thoi rut quan.",
+    "abbrev": "Rut quan.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0010BD",
@@ -1178,9 +1178,9 @@
     "raw_bytes": 38,
     "ascii_max": 39,
     "original": "說什麼呀？現在當然是乘勝追擊了，我去！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Noi gi vay? Gio phai thua thang truy kich, ta di!",
+    "abbrev": "Gio phai thua thang truy kich, ta di!",
+    "status": "done"
   },
   {
     "id": "SNR0M_0010E6",
@@ -1191,9 +1191,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "喂！張飛！不要輕舉妄動！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay! Truong Phi! Dung hanh dong thieu suy nghi!",
+    "abbrev": "Truong Phi! Dung hanh",
+    "status": "done"
   },
   {
     "id": "SNR0M_001101",
@@ -1204,9 +1204,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "追擊！繼續追擊！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truy kich! Tiep tuc truy kich!",
+    "abbrev": "Truy kich! Tiep",
+    "status": "done"
   },
   {
     "id": "SNR0M_001116",
@@ -1217,9 +1217,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "唉！追上去了，還是那麼魯莽．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ai! Da truy len roi, van that lo mang.",
+    "abbrev": "Da truy len roi, van that lo",
+    "status": "done"
   },
   {
     "id": "SNR0M_001137",
@@ -1230,9 +1230,9 @@
     "raw_bytes": 38,
     "ascii_max": 39,
     "original": "話不要這麼說，我軍士氣也鼓舞起來了嘛．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung noi vay, si khi ta cung duoc khich le ma.",
+    "abbrev": "Si khi ta cung duoc khich le ma.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001162",
@@ -1243,9 +1243,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "現在應該乘勢攻下虎牢關．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gio nen thua the cong Ho Lao Quan.",
+    "abbrev": "Thua the cong Ho Lao",
+    "status": "done"
   },
   {
     "id": "SNR0M_00117F",
@@ -1256,9 +1256,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "沒辦法，好！跟上張飛！進軍虎牢關！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong con cach, tot! Theo Truong Phi! Tien quan Ho Lao Quan!",
+    "abbrev": "Theo Truong Phi! Tien quan Ho Lao",
+    "status": "done"
   },
   {
     "id": "SNR0M_0011B7",
@@ -1269,9 +1269,9 @@
     "raw_bytes": 70,
     "ascii_max": 71,
     "original": "什麼？聯軍攻來了，還殺了華雄？好厲害，不過，他們的好運也就到此為止了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gi? Lien quan tan cong, con giet Hua Xiong? Manh that, nhung van may cua ho den day thoi.",
+    "abbrev": "Lien quan tan cong, giet Hua Xiong? Van may ho den day thoi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001200",
@@ -1282,9 +1282,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "呂布將軍，現在讓他們知道一下我軍的厲害．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong quan Lu Bo, gio de ho biet suc manh quan ta.",
+    "abbrev": "Lu Bo, de ho biet suc manh quan ta.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00122B",
@@ -1295,9 +1295,9 @@
     "raw_bytes": 38,
     "ascii_max": 39,
     "original": "好，全軍出擊！聯軍，好好看看我的厲害．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tot, toan quan xuat kich! Lien quan, hay xem suc manh ta.",
+    "abbrev": "Toan quan xuat kich! Lien quan, xem suc",
+    "status": "done"
   },
   {
     "id": "SNR0M_001254",
@@ -1308,9 +1308,9 @@
     "raw_bytes": 44,
     "ascii_max": 45,
     "original": "主將何在？不能只讓關羽逞雄風，我也要出風頭．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu tuong dau? Khong the chi de Quan Vu lam oai phong, ta cung muon noi tieng.",
+    "abbrev": "Khong de Quan Vu lam oai phong, ta cung muon",
+    "status": "done"
   },
   {
     "id": "SNR0M_001283",
@@ -1321,9 +1321,9 @@
     "raw_bytes": 20,
     "ascii_max": 23,
     "original": "這裡好像是呂布把守．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day co ve Lu Bo giu.",
+    "abbrev": "Day co ve Lu Bo giu.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00129A",
@@ -1334,9 +1334,9 @@
     "raw_bytes": 36,
     "ascii_max": 37,
     "original": "是呂布，恐怕沒有比他更可怕的敵人了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La Lu Bo, e rang khong co dich nao dang so hon.",
+    "abbrev": "La Lu Bo, khong co dich nao dang so",
+    "status": "done"
   },
   {
     "id": "SNR0M_0012C1",
@@ -1347,9 +1347,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "呂布座下赤兔馬，據說日行千里．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Bo cuoi Xich Tho, nghe noi mot ngay di ngan dam.",
+    "abbrev": "Lu Bo cuoi Xich Tho, mot ngay",
+    "status": "done"
   },
   {
     "id": "SNR0M_0012E2",
@@ -1360,9 +1360,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "呂布算什麼？讓他看看我的厲害．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Bo tinh gi? De ong thay suc manh ta.",
+    "abbrev": "Lu Bo tinh gi? De ong thay suc",
+    "status": "done"
   },
   {
     "id": "SNR0M_001305",
@@ -1373,9 +1373,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "對面可是呂布，來與我一決勝負！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ben kia la Lu Bo, den quyet thang bai voi ta!",
+    "abbrev": "Lu Bo, den quyet thang bai voi",
+    "status": "done"
   },
   {
     "id": "SNR0M_001326",
@@ -1386,9 +1386,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "還有人敢向我挑戰！報上名來！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Con ai dam thach thuc ta! Bao ten len!",
+    "abbrev": "Ai dam thach thuc ta! Bao",
+    "status": "done"
   },
   {
     "id": "SNR0M_001345",
@@ -1399,9 +1399,9 @@
     "raw_bytes": 54,
     "ascii_max": 55,
     "original": "我乃劉備義弟，張飛張翼德是也！呂布！我要取你項上人頭！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta la nghia de Luu Bi, Truong Phi Truong Nghich Duc! Lu Bo! Ta lay dau ngai!",
+    "abbrev": "Truong Phi Truong Nghich Duc! Lu Bo! Ta lay dau ngai!",
+    "status": "done"
   },
   {
     "id": "SNR0M_00137E",
@@ -1412,9 +1412,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "哈哈！無名小卒，好大膽，我呂布來戰一戰你．來吧！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha ha! Tieu binh vo danh, that to gan, ta Lu Bo den chien voi ngai. Den day!",
+    "abbrev": "Tieu binh vo danh, ta Lu Bo den chien. Den day!",
+    "status": "done"
   },
   {
     "id": "SNR0M_0013B1",
@@ -1425,9 +1425,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "別小看我，你會後悔的．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung coi thuong ta, ngai se hoi han.",
+    "abbrev": "Dung coi thuong ta, se",
+    "status": "done"
   },
   {
     "id": "SNR0M_0013CC",
@@ -1438,9 +1438,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "還真有兩下子．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "That co ban linh.",
+    "abbrev": "Co ban linh.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0013DD",
@@ -1451,9 +1451,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "不愧勇夫，不過，躲得過我這一槍嗎？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xung danh dung si, nhung tran duoc ngon thuong nay khong?",
+    "abbrev": "Tran duoc ngon thuong nay khong?",
+    "status": "done"
   },
   {
     "id": "SNR0M_001404",
@@ -1464,9 +1464,9 @@
     "raw_bytes": 10,
     "ascii_max": 13,
     "original": "休得猖狂！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung ngong cuong!",
+    "abbrev": "Dung ngong!",
+    "status": "done"
   },
   {
     "id": "SNR0M_001411",
@@ -1477,9 +1477,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "張飛，我們來幫你．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Phi, chung ta den giup ngai.",
+    "abbrev": "Truong Phi, chung",
+    "status": "done"
   },
   {
     "id": "SNR0M_001426",
@@ -1490,9 +1490,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "呂布，你的剋星來了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Bo, ke khac che ngai den roi.",
+    "abbrev": "Lu Bo, ke khac che",
+    "status": "done"
   },
   {
     "id": "SNR0M_00143D",
@@ -1503,9 +1503,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "幫手來了，沒辦法，撤退．赤兔，全靠你了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co vien den, khong con cach, rut lui. Xich Tho, tron vao ngai.",
+    "abbrev": "Co vien den, rut lui. Xich Tho, tron vao",
+    "status": "done"
   },
   {
     "id": "SNR0M_00146A",
@@ -1516,9 +1516,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "別跑！呂布！站住！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung chay! Lu Bo! Dung lai!",
+    "abbrev": "Dung chay! Lu Bo!",
+    "status": "done"
   },
   {
     "id": "SNR0M_00147F",
@@ -1529,9 +1529,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "不愧是赤兔馬，我們根本追不上．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xung danh Xich Tho, ta khong the duoi kip.",
+    "abbrev": "Xich Tho, ta khong duoi kip.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0014B5",
@@ -1542,9 +1542,9 @@
     "raw_bytes": 10,
     "ascii_max": 11,
     "original": "全軍撤退．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Toan quan rut lui.",
+    "abbrev": "Rut lui.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0014C4",
@@ -1555,9 +1555,9 @@
     "raw_bytes": 76,
     "ascii_max": 77,
     "original": "哼！七拼八湊的部隊還挺厲害，不過我可不會敗給這些鼠輩，要讓他們知道我的厲害．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Humph! Doi quan tap nap cung manh, nhung ta khong thua bon chuot nay, de ho biet suc manh ta.",
+    "abbrev": "Doi quan tap nap cung manh, nhung ta khong thua, de ho biet suc manh ta.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001515",
@@ -1568,9 +1568,9 @@
     "raw_bytes": 24,
     "ascii_max": 27,
     "original": "可惡！沒辦法，全軍撤退．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dang ghet! Khong con cach, toan quan rut lui.",
+    "abbrev": "Khong con cach, toan quan",
+    "status": "done"
   },
   {
     "id": "SNR0M_001530",
@@ -1581,9 +1581,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "太好了！我們打敗了呂布．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuyet! Ta danh bai Lu Bo roi.",
+    "abbrev": "Ta danh bai Lu Bo roi.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00158C",
@@ -1594,9 +1594,9 @@
     "raw_bytes": 76,
     "ascii_max": 77,
     "original": "對董卓來說，汜水關和虎牢關的陷落事關重大．\r\n　董卓決定挾持獻帝逃離洛陽．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Voi Dong Trac, viec mat Ty Thuy Quan va Ho Lao Quan rat quan trong.\r\n Dong Trac quyet dinh ap giai Hien De bo chay khoi Lac Duong.",
+    "abbrev": "Mat Ty Thuy Quan va Ho Lao Quan rat quan trong. Dong Trac ap giai Hien De bo ",
+    "status": "done"
   },
   {
     "id": "SNR0M_0015DB",
@@ -1607,9 +1607,9 @@
     "raw_bytes": 46,
     "ascii_max": 47,
     "original": "要殺陛下的人已逼近洛陽，事已至此，離開洛陽吧．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke muon giet Bien ha da den gan Lac Duong, viec da den the nay, roi Lac Duong thoi.",
+    "abbrev": "Ke muon giet Bien ha da den gan Lac Duong, roi",
+    "status": "done"
   },
   {
     "id": "SNR0M_00160A",
@@ -1620,9 +1620,9 @@
     "raw_bytes": 58,
     "ascii_max": 59,
     "original": "~\u0001什麼？洛陽是以前就作為帝都才得以繁榮的．你是說要捨棄它？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "~\u0001Gi? Lac Duong tu xua la de do moi hung thinh. Ngai muon bo no sao?",
+    "abbrev": "~\u0001Lac Duong la de do, ngai muon bo no sao?",
+    "status": "done"
   },
   {
     "id": "SNR0M_001647",
@@ -1633,9 +1633,9 @@
     "raw_bytes": 46,
     "ascii_max": 47,
     "original": "你好像沒聽懂我剛才說的話吧，我還要重複一遍嗎？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai co ve khong hieu loi ta vua noi, ta phai lap lai sao?",
+    "abbrev": "Ngai khong hieu loi ta vua noi sao?",
+    "status": "done"
   },
   {
     "id": "SNR0M_001676",
@@ -1646,9 +1646,9 @@
     "raw_bytes": 32,
     "ascii_max": 33,
     "original": "~\u0001這，朕知道了，就照你說的辦吧！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "~\u0001Vay, tram biet roi, cu lam theo ngai!",
+    "abbrev": "~\u0001Tram biet roi, lam theo ngai!",
+    "status": "done"
   },
   {
     "id": "SNR0M_001699",
@@ -1659,9 +1659,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "謝謝皇帝採納臣的建議，那麼就請快些走吧！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cam on Hoang de chap nhan de nghi cua than, xin mau di thoi!",
+    "abbrev": "Cam on Hoang de, xin mau di thoi!",
+    "status": "done"
   },
   {
     "id": "SNR0M_0016C6",
@@ -1672,9 +1672,9 @@
     "raw_bytes": 68,
     "ascii_max": 69,
     "original": "對啦，李儒，不能輕易把洛陽留給賊軍，火燒洛陽，沒收城裡全部金銀財寶．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung roi, Ly Nhu, khong the de Lac Duong cho gian quan, dot Lac Duong, thu het vang bac trong thanh.",
+    "abbrev": "Ly Nhu, dot Lac Duong, thu het vang bac trong thanh.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00170D",
@@ -1685,9 +1685,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "是！",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vang!",
+    "abbrev": "Vang!",
+    "status": "done"
   },
   {
     "id": "SNR0M_001769",
@@ -1698,9 +1698,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "\u0001陛下…",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "\u0001Bien ha...",
+    "abbrev": "\u0001Bien ha",
+    "status": "done"
   },
   {
     "id": "SNR0M_0017BB",
@@ -1711,9 +1711,9 @@
     "raw_bytes": 10,
     "ascii_max": 11,
     "original": "虎牢關營帳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Doanh trai Ho Lao Quan",
+    "abbrev": "Ho Lao Quan",
+    "status": "done"
   },
   {
     "id": "SNR0M_0017C6",
@@ -1724,9 +1724,9 @@
     "raw_bytes": 96,
     "ascii_max": 97,
     "original": "攻克了汜水關和虎牢關，曹操等討伐董卓的聯軍正陶醉在勝利中，這時得到了董卓挾持獻帝逃走的消息．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Da cong Ty Thuy Quan va Ho Lao Quan, lien quan dao Dong Trac cua Tao Thao dang say men chien thang, luc nay nhan tin Dong Trac ap giai Hien De bo chay.",
+    "abbrev": "Da cong Ty Thuy Quan va Ho Lao Quan, lien quan say men thang, nhan tin Dong Trac ap giai Hien De ",
+    "status": "done"
   },
   {
     "id": "SNR0M_001829",
@@ -1737,9 +1737,9 @@
     "raw_bytes": 42,
     "ascii_max": 43,
     "original": "據說董卓逃往洛陽西面的長安，現在就應追擊．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nghe noi Dong Trac chay ve Truong An phia tay Lac Duong, gio nen truy kich.",
+    "abbrev": "Dong Trac chay ve Truong An, gio nen truy",
+    "status": "done"
   },
   {
     "id": "SNR0M_001856",
@@ -1750,9 +1750,9 @@
     "raw_bytes": 46,
     "ascii_max": 47,
     "original": "不，接連作戰，士兵太累了，現在應該在這裡休息．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong, lien tiep chien dau, binh linh qua met, gio nen nghi tai day.",
+    "abbrev": "Binh linh qua met, gio nen nghi tai day.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001887",
@@ -1763,9 +1763,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "可是要抓住戰機，錯失此良機，我們就沒有勝利機會．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung phai nam bat co hoi, bo lo co hoi nay, ta khong con co hoi thang.",
+    "abbrev": "Bo lo co hoi nay, ta khong con co hoi thang.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0018BC",
@@ -1776,9 +1776,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "既然想要追擊，隨你去好了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Muon truy kich thi tuy ngai.",
+    "abbrev": "Muon truy kich thi tuy",
+    "status": "done"
   },
   {
     "id": "SNR0M_0018D9",
@@ -1789,9 +1789,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "士兵也的確太累了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Binh linh that su qua met.",
+    "abbrev": "Binh linh qua met.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0018EE",
@@ -1802,9 +1802,9 @@
     "raw_bytes": 72,
     "ascii_max": 73,
     "original": "我等為討伐國賊才起兵的，可是，現在連追擊董卓都不肯，要讓天下百姓失望的．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chung ta khoi binh de dao quoc tac, nhung gio khong chiu truy Dong Trac, se lam dan thien ha that vong.",
+    "abbrev": "Khoi binh de dao quoc tac, gio khong truy Dong Trac, dan se that vong.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001939",
@@ -1815,9 +1815,9 @@
     "raw_bytes": 46,
     "ascii_max": 47,
     "original": "這裡已沒有與我同心之人，我要回領地去，告辭了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day khong con ai cung chi huong voi ta, ta ve lanh dia, xin cao lui.",
+    "abbrev": "Khong con ai cung chi huong, ta ve lanh dia.",
+    "status": "done"
   },
   {
     "id": "SNR0M_00196C",
@@ -1828,9 +1828,9 @@
     "raw_bytes": 44,
     "ascii_max": 45,
     "original": "說什麼與你同心，他又不是名門望族，太囂張了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Noi gi cung chi huong, ong ta khong phai gia toc danh gia, qua kieu ngao.",
+    "abbrev": "Ong ta khong phai gia toc danh gia, qua kieu",
+    "status": "done"
   },
   {
     "id": "SNR0M_00199B",
@@ -1841,9 +1841,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "可是沒有曹操這個中心人物，這個聯軍就沒有意義了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung khong co Tao Thao lam trung tam, lien quan nay vo nghia.",
+    "abbrev": "Khong co Tao Thao, lien quan nay vo nghia.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0019D0",
@@ -1854,9 +1854,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "劉備，有機會我們還會再見的．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi, co dip chung ta se gap lai.",
+    "abbrev": "Luu Bi, co dip gap lai.",
+    "status": "done"
   },
   {
     "id": "SNR0M_0019F1",
@@ -1867,9 +1867,9 @@
     "raw_bytes": 68,
     "ascii_max": 69,
     "original": "劉備將來會成就大事的，哈哈哈！我這老頭開玩笑，請別介意．那我告辭了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi sau nay se thanh dai su, ha ha ha! Lao phu noi dua, xin dung de y. Vay ta xin lui.",
+    "abbrev": "Luu Bi sau nay se thanh dai su, ha ha! Noi dua, xin lui.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001A3A",
@@ -1880,9 +1880,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "那麼我們也撤吧．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vay ta cung rut.",
+    "abbrev": "Vay ta cung rut.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001A4D",
@@ -1893,9 +1893,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "是啊．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung vay.",
+    "abbrev": "Dung.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001A58",
@@ -1906,9 +1906,9 @@
     "raw_bytes": 52,
     "ascii_max": 55,
     "original": "那麼，劉備，再見了，如果有什麼事情，隨時可以跟我講．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vay, Luu Bi, tam biet, neu co viec gi, cu noi voi ta.",
+    "abbrev": "Vay, Luu Bi, tam biet, neu co viec gi, cu noi voi ta.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001A8F",
@@ -1919,9 +1919,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "那我也告辭了．",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vay ta cung xin lui.",
+    "abbrev": "Ta xin lui.",
+    "status": "done"
   },
   {
     "id": "SNR0M_001B36",
@@ -1932,8 +1932,8 @@
     "raw_bytes": 82,
     "ascii_max": 83,
     "original": "處在這個亂世上，劉備等人該如何面對呢？還有，劉備兄弟們重振漢室的夢想能實現嗎？",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trong the gian loan lac nay, Luu Bi va nhung nguoi khac se doi mat the nao? Uoc mo trung hung nha Han cua ba anh em Luu Bi co thanh hien thuc khong?",
+    "abbrev": "Trong loan the, Luu Bi se doi mat the nao? Uoc mo trung hung nha Han co thanh hien ",
+    "status": "done"
   }
 ]
